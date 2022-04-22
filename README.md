@@ -33,9 +33,12 @@ The M3 screws are threaded directly into printed part. Don't over-tighten them.
 
 ## So, How Much Torque Does It Provide?
 
-First of all, **this is not a tool designed for heavy duty or high precision usage**. From the discription of [Fixed Torque Wrench Handles by A_R_B](https://www.thingiverse.com/thing:2613057), the bit would possibly strip the printed holder for torque over 3Nm.
+First of all, **this is not a tool designed for heavy duty or high precision usage**. 
+
+From the discription of [Fixed Torque Wrench Handles by A_R_B](https://www.thingiverse.com/thing:2613057), the bit would possibly strip the printed holder for torque over 3Nm.
 
 The torque varies a lot by materials and print settings. Usually PLA is much stiffer than ABS and PETG.
+
 The recommended method is to try printing out rotors with different number of fins and pick the one that meets your usage. **The rotors share the same case**.
 
 ## Acknowledgement
